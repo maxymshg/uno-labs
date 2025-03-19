@@ -1,0 +1,34 @@
+# Arduino IDE
+*.ino.*
+*.swp
+*.bak
+*.tmp
+*.temp
+*.DS_Store
+
+# Build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.out
+
+# Libraries
+/libraries/*
+
+# Sketchbook generated files
+/sketchbook/*
+
+# Temporary files
+*.log
+*.dmp
+*.stackdump
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+._*
+
+# IDE-specific files
+.vscode/*
